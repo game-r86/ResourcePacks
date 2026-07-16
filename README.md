@@ -22,13 +22,6 @@
 </div>
 
 ---
-## 📥 Download
-
-### ➜ **[Download the Latest Release](../../releases/latest)**
-
-</div>
-
----
 
 # 📖 Overview
 
