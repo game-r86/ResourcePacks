@@ -1,6 +1,6 @@
 <div align="center">
     
-<img src="images/banner.png" alt="Banner">
+<img src="images/Banner.png" alt="Banner">
 
 # 🎮 Server Resource Pack
 
