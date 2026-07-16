@@ -33,7 +33,7 @@ Designed specifically for our multiplayer Fabric server, this pack provides a co
 
 | Spawn | Forest |
 |-------|---------|
-| ![](images/spawn.jpg) | ![](images/forest.jpg) |
+| ![](images/spawn.jpg) | ![](images/Forest.jpg) |
 
 | Village | Cave |
 |---------|------|
