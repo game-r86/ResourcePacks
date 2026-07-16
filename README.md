@@ -2,166 +2,197 @@
 
 # 🎮 Server Resource Pack
 
-### *Official Resource Pack for our Minecraft Fabric 1.20.1 Server*
+### Official Vanilla+ Resource Pack for Minecraft Fabric 1.20.1
 
-Enhancing vanilla Minecraft with immersive animations, polished textures, and improved visuals while maintaining excellent performance.
+Enhancing Minecraft with immersive animations, refined textures, and polished visuals while preserving the original vanilla experience.
 
-![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-5E9C36?style=for-the-badge)
-![Fabric](https://img.shields.io/badge/Fabric-Supported-orange?style=for-the-badge)
-![Resource Pack](https://img.shields.io/badge/Resource_Pack-Vanilla+-blue?style=for-the-badge)
-![Version](https://img.shields.io/github/v/release/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
+<p>
+    <img src="https://img.shields.io/badge/Minecraft-1.20.1-5E9C36?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Fabric-Supported-orange?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Vanilla+-Resource_Pack-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/github/v/release/game-r86/ResourcePacks?style=for-the-badge" />
+</p>
 
 ---
 
-### 📥 Download
+## 📥 Download
 
-➡️ **[Download the Latest Release](../../releases/latest)**
+### ➜ **[Download the Latest Release](../../releases/latest)**
 
 </div>
 
 ---
 
-# ✨ Overview
+# 📖 Overview
 
-The Server Resource Pack is a carefully curated collection of high-quality resource packs that modernize Minecraft's visuals without sacrificing the original vanilla experience.
+The **Server Resource Pack** is a carefully curated collection of high-quality community resource packs designed to improve Minecraft's visuals while preserving the original vanilla style.
 
-Designed specifically for our multiplayer Fabric server, this pack provides a consistent experience for every player while keeping performance high—even without shaders.
-
----
-
-# 🖼 Preview
-
-| Spawn | Forest |
-|-------|---------|
-| ![](images/spawn.jpg) | ![](images/Forest.jpg) |
-
-| Village | Cave |
-|---------|------|
-| ![](images/village.jpg) | ![](images/cave.jpg) |
+Instead of completely changing the game's appearance, this pack focuses on polishing the existing experience with smoother animations, richer environments, and subtle visual enhancements—all while maintaining excellent performance.
 
 ---
 
-# 🌟 Features
+# ✨ Features
 
-## 🎨 Visual Improvements
-
-- Fresh Animations
-- Fresh Moves
-- Better Leaves
-- Better Beds
-- Beautiful Enchanted Books
-- Fancy Crops
-- Enhanced Boss Bars
-- Cubic Sun & Moon
-- Default Dark Mode
-- Glowing Ores
-
----
-
-## ⚡ Performance
-
-- No shaders required
-- High FPS
-- Vanilla-friendly
-- Multiplayer optimized
-- Lightweight
+- 🎭 Smooth Mob Animations
+- 🚶 Player Animation Improvements
+- 🌿 Better Leaves
+- 🌾 Improved Crops
+- 📚 Beautiful Enchanted Books
+- 🛏 Better Beds
+- 👑 Enhanced Boss Bars
+- 🌙 Cubic Sun & Moon
+- 💎 Glowing Ores
+- 🌑 Default Dark Mode
+- ⚡ High Performance
+- 🎮 Multiplayer Friendly
+- 🚫 No Shaders Required
 
 ---
 
-# 📦 Requirements
+# 📸 Gallery
+
+## 🏡 Spawn
+
+<p align="center">
+<img src="images/spawn.jpg" width="900"/>
+</p>
+
+---
+
+## 🌲 Forest
+
+<p align="center">
+<img src="images/forest.jpg" width="900"/>
+</p>
+
+---
+
+## ⛏ Cave
+
+<p align="center">
+<img src="images/cave.jpg" width="900"/>
+</p>
+
+---
+
+## 🏘 Village
+
+<p align="center">
+<img src="images/village.jpg" width="900"/>
+</p>
+
+---
+
+# 📦 Included Resource Packs
+
+| Resource Pack | Included |
+|---------------|:--------:|
+| Fresh Animations | ✅ |
+| Fresh Animations Extensions | ✅ |
+| Fresh Moves | ✅ |
+| Better Leaves | ✅ |
+| Better Beds | ✅ |
+| Beautiful Enchanted Books | ✅ |
+| Fancy Crops | ✅ |
+| Cubic Sun & Moon | ✅ |
+| Enhanced Boss Bars | ✅ |
+| Default Dark Mode | ✅ |
+| Glowing Ores | ✅ |
+| Armory Conglomery | ✅ |
+| Chat Reporting Helper | ✅ |
+
+---
+
+# 🔧 Requirements
 
 | Component | Version |
 |-----------|---------|
 | Minecraft | 1.20.1 |
 | Loader | Fabric |
 | Fabric API | Required |
-| EMF | Required |
-| ETF | Required (if applicable) |
+| Entity Model Features (EMF) | Required |
+| Entity Texture Features (ETF) | Required *(if applicable)* |
 
 ---
 
-# 📥 Installation
+# 🚀 Installation
 
-## Automatic
+## Automatic *(Recommended)*
 
 Simply join the server.
 
-Minecraft will automatically prompt you to download the latest version.
+Minecraft will automatically prompt you to download the latest version of the resource pack.
 
 ---
 
-## Manual
+## Manual Installation
 
-Download the latest release.
-
-Move the ZIP into:
+1. Download the latest release.
+2. Place the ZIP inside:
 
 ```text
 .minecraft/resourcepacks
 ```
 
-Enable it from:
+3. Launch Minecraft.
+4. Go to:
 
 ```
 Options
-    ↓
+   ↓
 Resource Packs
-    ↓
-Server Resource Pack
+   ↓
+Enable "Server Resource Pack"
 ```
 
 ---
 
-# 🚀 Included Resource Packs
+# 🎯 Design Philosophy
 
-- Fresh Animations
-- Fresh Animations Extensions
-- Fresh Moves
-- Better Leaves
-- Better Beds
-- Beautiful Enchanted Books
-- Fancy Crops
-- Enhanced Boss Bars
-- Cubic Sun & Moon
-- Default Dark Mode
-- Glowing Ores
-- Chat Reporting Helper
-- Armory Conglomery
+Our goal is to enhance Minecraft **without changing what makes it feel like Minecraft.**
+
+This resource pack is built around five principles:
+
+- Preserve the vanilla art style
+- Improve immersion
+- Maintain high FPS
+- Enhance multiplayer gameplay
+- Keep installation simple
 
 ---
 
-# 📈 Roadmap
+# 🔄 Updating
 
-- [x] Initial Release
-- [x] Vanilla+ Visual Improvements
-- [ ] More Environmental Details
-- [ ] Additional Mob Variations
-- [ ] Seasonal Variants
-- [ ] Better GUI Improvements
-- [ ] Custom Server Assets
+The latest version is always available through the **GitHub Releases** page.
+
+Players joining the server will automatically receive updates whenever the server resource pack is updated.
 
 ---
 
 # ❤️ Credits
 
-This project bundles and configures multiple community-created resource packs.
+This project combines multiple community-created resource packs.
 
-All original assets belong to their respective creators.
+All textures, models, animations, sounds, and visual assets remain the property of their respective creators.
 
-Please support the original authors by visiting their official project pages.
+Please support the original authors by downloading from their official pages whenever possible.
 
 ---
 
 # 📜 License
 
-This repository is provided for use with our Minecraft server.
+This repository is licensed under the **MIT License** for repository content created specifically for this project.
 
-Redistribution of individual assets is subject to the licenses of their respective authors.
+Individual resource packs remain subject to their original licenses and permissions.
 
 ---
 
 <div align="center">
 
-Made with ❤️ for our Minecraft community.
+## ⭐ Like the project?
+
+If you enjoy this resource pack, consider leaving a ⭐ on the repository.
+
+Made with ❤️ for the Minecraft Community.
 
 </div>
