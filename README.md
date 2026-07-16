@@ -15,7 +15,7 @@ Enhancing vanilla Minecraft with immersive animations, polished textures, and im
 
 ### 📥 Download
 
-Download the latest version from the **Releases** page.
+➡️ **[Download the Latest Release](../../releases/latest)**
 
 </div>
 
