@@ -31,8 +31,6 @@ Designed specifically for our multiplayer Fabric server, this pack provides a co
 
 # 🖼 Preview
 
-> Replace these placeholders with your own screenshots.
-
 | Spawn | Forest |
 |-------|---------|
 | ![](images/spawn.png) | ![](images/forest.png) |
