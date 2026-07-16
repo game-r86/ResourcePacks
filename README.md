@@ -13,11 +13,9 @@
     <img src="https://img.shields.io/badge/Status-Pre--Release-yellow?style=for-the-badge" />
 </p>
 
-<p>
-    <a href="../../releases/latest">
-        <img src="https://img.shields.io/badge/⬇️_Latest_Release-Download-success?style=for-the-badge" />
-    </a>
-</p>
+<a href="../../releases/latest">
+    <img src="https://img.shields.io/badge/⬇️_Download-Latest_Release-0969DA?style=for-the-badge" />
+</a>
 
 </div>
 
@@ -69,7 +67,7 @@ Instead of completely changing the game's appearance, this pack focuses on polis
 ## 🌲 Forest
 
 <p align="center">
-<img src="images/forest.jpg" width="900"/>
+<img src="images/Forest.jpg" width="900"/>
 </p>
 
 ---
