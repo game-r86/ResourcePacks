@@ -4,17 +4,24 @@
 
 ### Official Vanilla+ Resource Pack for Minecraft Fabric 1.20.1
 
-Enhancing Minecraft with immersive animations, refined textures, and polished visuals while preserving the original vanilla experience.
+*A carefully curated Vanilla+ resource pack designed to enhance Minecraft with immersive animations, refined textures, and polished visuals while staying true to the original game.*
 
 <p>
     <img src="https://img.shields.io/badge/Minecraft-1.20.1-5E9C36?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Fabric-Supported-orange?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Vanilla+-Resource_Pack-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/github/v/release/game-r86/ResourcePacks?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Status-Pre--Release-yellow?style=for-the-badge" />
 </p>
 
----
+<p>
+    <a href="../../releases/latest">
+        <img src="https://img.shields.io/badge/⬇️_Latest_Release-Download-success?style=for-the-badge" />
+    </a>
+</p>
 
+</div>
+
+---
 ## 📥 Download
 
 ### ➜ **[Download the Latest Release](../../releases/latest)**
